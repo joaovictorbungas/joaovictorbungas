@@ -1,4 +1,4 @@
-### Hi there 👋
+Meu nome é João Victor estou no 2° ano e estudo no colégio cívico Militar darcy José Costa 
 
 <!--
 **joaovictorbungas/joaovictorbungas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
